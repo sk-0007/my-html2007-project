@@ -247,40 +247,40 @@ ul li a {
 /***********************    sidebar styles   ********************/
 
 .bio-sidebar {
-    border:#333333 dotted 2px;
+    border:#000000 solid 2px;
 }
 
 .bio-sidebar .bio,
 .bio-sidebar .links{
-    border-bottom: #333333 dotted 2px;
+    border-bottom: #000000 solid 2px;
 }
 
 /***********************    main styles   ***********************/
 
 .main-section section {
-    border: #333333 dotted 2px; 
+    border: #000000 solid 2px; 
 }
 
 .main-section .posts div {
-    border: #333333 dotted 2px;
+    border: #000000 solid 2px;
 }
 
 
 /************************    bio styles   ***********************/
 
 .bio img {
-    border:#333333 dotted 2px;
+    border:#000000 solid 2px;
 }
 
 /**********************    aboutme styles   *********************/
 .about-me .about-me-text *{
-    border:#333333 dotted 2px;
+    border:#000000 solid 2px;
 }
 
 /*********************    friends     *********************/
 
 .friends img {
-    border: #333333 dotted 2px;
+    border: #000000 solid 2px;
 }
 
 
