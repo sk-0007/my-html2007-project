@@ -274,7 +274,7 @@ ul li a {
 
 /**********************    aboutme styles   *********************/
 .about-me .about-me-text *{
-    border:#000000 solid 2px;
+    border:#000000 solid 0px;
 }
 
 /*********************    friends     *********************/
