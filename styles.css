@@ -216,8 +216,11 @@ body {
 /************************    navbar   ***************************/
 
 nav {
-       background-color: #ffffff;
-       border-bottom: 2px solid #e0e0e0;
+       background: url(./assets/images/stars.png) repeat;
+       border-bottom: 4px solid #e0e0e0;
+       border-top: 4px solid #e0e0e0;
+       border-left: 4px solid #e0e0e0;
+       border-right: 4px solid #e0e0e0;
 }
 
 nav img {
@@ -227,7 +230,7 @@ nav img {
 
 nav ul li a {
     text-decoration: none;
-    color: #333333;
+    color: #ffffff;
     font-weight: bold;
 }
 
@@ -240,29 +243,30 @@ ul li {
 
 ul li a {
     text-decoration: none;
-    color: #333333;
+    color: #ffffff;
     font-weight: bold;
 }
 
 /***********************    sidebar styles   ********************/
 
-.bio-sidebar {
-    border:#000000 solid 2px;
+.bio-sidebar, .main-section * {
+    background:#131313;
+    border-radius: 2px;
 }
 
 .bio-sidebar .bio,
 .bio-sidebar .links{
-    border-bottom: #000000 solid 2px;
+    border-bottom: #ffffff solid 2px;
 }
 
 /***********************    main styles   ***********************/
 
 .main-section section {
-    border: #000000 solid 2px; 
+    border: #ffffff solid 2px; 
 }
 
 .main-section .posts div {
-    border: #000000 solid 2px;
+    border: #ffffff solid 2px;
 }
 
 
