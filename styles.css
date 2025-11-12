@@ -209,7 +209,7 @@ Your Playground (Make customizations and changes below)
 *****************************************************************/
 
 body {
-    background-color: #8416a9;
+    background: url(./assets/images/silver\ zebra.jpg) repeat;
     color: rgb(255, 255, 255); /* Change background color */
 }
 
